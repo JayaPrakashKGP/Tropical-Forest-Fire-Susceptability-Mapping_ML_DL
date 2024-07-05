@@ -9,4 +9,4 @@ GBM_Model.R: This script should contain the code for creating, training, and eva
 
 RF_Model.R: This script should contain the code for creating, training, and evaluating the Random Forest (RF) model.
 
-Quick_Test_Script.R: This script should use the quick-test data for a fast validation of the neural network model.
+Test_Data_FF_Susceptability.csv: This script should use the quick-test data to execute the models.
